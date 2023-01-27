@@ -12,6 +12,5 @@ clean:
 simulate:
 	gtkwave mux_d1_tb.vcd
 
-run_sv:
-	$(clean) $(compile) $(simulate)
+all:	clean compile simulate
 
