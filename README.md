@@ -9,3 +9,5 @@ gtkwave
 Day1: 2:1 MUX
 
 DAY2: Synchcronous and Asynchronous JK Flipflop
+
+Day3: XNOR gate in behavioral, dataflow and gate modelling
