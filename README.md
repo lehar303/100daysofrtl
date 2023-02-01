@@ -13,3 +13,5 @@ DAY2: Synchcronous and Asynchronous JK Flipflop
 Day3: XNOR gate in behavioral, dataflow and gate modelling
 
 Day4: T Flipflop
+
+Day5: Shift Reg
